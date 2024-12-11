@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WVOEMS Token - Official Project Site</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        header {
+            background: #004085;
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        header p {
+            font-size: 1.5em;
+        }
+        .content {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .section-title {
+            font-size: 2em;
+            color: #004085;
+            margin-bottom: 20px;
+        }
+        .btn {
+            display: inline-block;
+            background: #004085;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 1.2em;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .btn:hover {
+            background: #003366;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 10px;
+            background: #004085;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>WVOEMS Token Project</h1>
+    <p>Transforming EMS Operations with Blockchain Technology</p>
+</header>
+
+<div class="content">
+    <h2 class="section-title">About the Project</h2>
+    <p>
+        The WVOEMS Token Project is the first blockchain-based initiative by a state emergency medical services (EMS) office in the United States. Developed by the West Virginia Office of Emergency Medical Services (WVOEMS), this project leverages the TON Network blockchain to streamline EMS operations, improve administrative efficiency, and support first responder mental health programs.
+    </p>
+
+    <h2 class="section-title">Key Features</h2>
+    <ul>
+        <li>Automated Training & Certification Records</li>
+        <li>Smart Contract-Based Compliance Management</li>
+        <li>First Responder Mental Health Support</li>
+        <li>Recognition Tokens for Service Excellence</li>
+    </ul>
+
+    <h2 class="section-title">Why Blockchain?</h2>
+    <p>
+        Blockchain technology ensures transparency, data security, and immutable records. By deploying the WVOEMS Token on the TON Network, we guarantee streamlined EMS processes and the highest levels of data integrity, enabling our providers to focus on what matters most: saving lives.
+    </p>
+
+    <a href="https://github.com/WVOEMS-Token" class="btn">View Project on GitHub</a>
+</div>
+
+<footer>
+    <p>&copy; 2024 WVOEMS Token | Powered by West Virginia Department of Health</p>
+</footer>
+
+</body>
+</html>
